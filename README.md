@@ -1,4 +1,4 @@
-# AOV Game File Compression and Decompression Tool
+# AOV Zstd
 
 This tool for compress and decompress game files for the mobile game "Arena of Valor" (AOV). It uses the Zstandard (zstd).
 
