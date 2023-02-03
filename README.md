@@ -30,7 +30,7 @@ This tool for compress and decompress game files for the mobile game "Arena of V
 
 ## Contact
 
-For any issues or support please contact the developer on Github: https://github.com/xxviiixmmiv
+For any issues or support please contact the developer on Github: https://github.com/wrxyut
 
 ## Version
 
