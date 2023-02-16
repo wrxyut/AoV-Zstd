@@ -15,8 +15,6 @@ This tool for compress and decompress game files for the mobile game "Arena of V
 
 ### Windows
 
-* Create a directory named "input" in the same location as the script.
-* Add the AOV game files you wish to compress or decompress to the "input" directory. These files should have one of the following extensions: ".xml", ".bytes", ".txt".
 * Run the script.
 
 ## Note
