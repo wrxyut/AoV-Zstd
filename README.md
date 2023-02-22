@@ -19,7 +19,6 @@ This tool for compress and decompress game files for the mobile game "Arena of V
 
 ## Note
 
-* If the script is unable to find the "input" directory, it will create it for you and ask you to add the files to the directory.
 * The script uses the pyzstd library to perform the compression and decompression, and uses the ZSTD_LEVEL and ZSTD_DICT constants as parameters.
 
 ## Warning
